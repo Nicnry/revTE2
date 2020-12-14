@@ -7,4 +7,6 @@
 
 void te32016();
 
+void showVectorAnswer(std::vector<int> v);
+
 #endif //REVTE2_TE32016_H
