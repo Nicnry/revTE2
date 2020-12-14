@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nawakine/Documents/HEIG/notes/PRG1/revTE2/te32018.cpp
+iostream
+-
+vector
+-
+te32018.h
+/Users/nawakine/Documents/HEIG/notes/PRG1/revTE2/te32018.h
+
+/Users/nawakine/Documents/HEIG/notes/PRG1/revTE2/te32018.h
+
